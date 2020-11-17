@@ -1,2 +1,2 @@
 # LogColor
-Minimal Lightweight Supoer Simple Logging for JavaScript
+Minimal Lightweight Super Duper Simple Logging for JavaScript
